@@ -1,9 +1,0 @@
-Requirements
-
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- jupyter
-- joblib
